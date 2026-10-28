@@ -1,11 +1,12 @@
 {
-  "name": "مصروفاتي - حساب المصروفات الشخصية",
+  "name": "مصروفاتي - حساب المصروفات",
   "short_name": "مصروفاتي",
-  "description": "إدارة المصروفات الشخصية باللغة العربية",
   "lang": "ar",
   "dir": "rtl",
-  "start_url": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f4f7f5",
-  "theme_color": "#14532d"
+  "theme_color": "#14532d",
+  "description": "إدارة المصروفات الشخصية محليًا على الهاتف مع تصدير Excel"
 }
